@@ -1,0 +1,12 @@
+/Users/dinatrifonova/Desktop/workspace/akkauntclever/workspace/tasks/lab08/solver_application/build/CMakeFiles/equation.dir
+/Users/dinatrifonova/Desktop/workspace/akkauntclever/workspace/tasks/lab08/solver_application/build/CMakeFiles/edit_cache.dir
+/Users/dinatrifonova/Desktop/workspace/akkauntclever/workspace/tasks/lab08/solver_application/build/CMakeFiles/rebuild_cache.dir
+/Users/dinatrifonova/Desktop/workspace/akkauntclever/workspace/tasks/lab08/solver_application/build/formatter_ex_lib/CMakeFiles/formatter_ex_lib.dir
+/Users/dinatrifonova/Desktop/workspace/akkauntclever/workspace/tasks/lab08/solver_application/build/formatter_ex_lib/CMakeFiles/edit_cache.dir
+/Users/dinatrifonova/Desktop/workspace/akkauntclever/workspace/tasks/lab08/solver_application/build/formatter_ex_lib/CMakeFiles/rebuild_cache.dir
+/Users/dinatrifonova/Desktop/workspace/akkauntclever/workspace/tasks/lab08/solver_application/build/formatter_ex_lib/formatter_lib/CMakeFiles/formatter_lib.dir
+/Users/dinatrifonova/Desktop/workspace/akkauntclever/workspace/tasks/lab08/solver_application/build/formatter_ex_lib/formatter_lib/CMakeFiles/edit_cache.dir
+/Users/dinatrifonova/Desktop/workspace/akkauntclever/workspace/tasks/lab08/solver_application/build/formatter_ex_lib/formatter_lib/CMakeFiles/rebuild_cache.dir
+/Users/dinatrifonova/Desktop/workspace/akkauntclever/workspace/tasks/lab08/solver_application/build/solver_lib/CMakeFiles/solver_lib.dir
+/Users/dinatrifonova/Desktop/workspace/akkauntclever/workspace/tasks/lab08/solver_application/build/solver_lib/CMakeFiles/edit_cache.dir
+/Users/dinatrifonova/Desktop/workspace/akkauntclever/workspace/tasks/lab08/solver_application/build/solver_lib/CMakeFiles/rebuild_cache.dir

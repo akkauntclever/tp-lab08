@@ -1,0 +1,6 @@
+/Users/dinatrifonova/Desktop/workspace/akkauntclever/workspace/tasks/lab03/formatter_ex_lib/build/CMakeFiles/formatter_ex_lib.dir
+/Users/dinatrifonova/Desktop/workspace/akkauntclever/workspace/tasks/lab03/formatter_ex_lib/build/CMakeFiles/edit_cache.dir
+/Users/dinatrifonova/Desktop/workspace/akkauntclever/workspace/tasks/lab03/formatter_ex_lib/build/CMakeFiles/rebuild_cache.dir
+/Users/dinatrifonova/Desktop/workspace/akkauntclever/workspace/tasks/lab03/formatter_ex_lib/build/formatter_lib/CMakeFiles/formatter_lib.dir
+/Users/dinatrifonova/Desktop/workspace/akkauntclever/workspace/tasks/lab03/formatter_ex_lib/build/formatter_lib/CMakeFiles/edit_cache.dir
+/Users/dinatrifonova/Desktop/workspace/akkauntclever/workspace/tasks/lab03/formatter_ex_lib/build/formatter_lib/CMakeFiles/rebuild_cache.dir
