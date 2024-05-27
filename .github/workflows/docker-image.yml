@@ -15,4 +15,4 @@ jobs:
     steps:
     - uses: actions/checkout@v4
     - name: Build the Docker image
-      run: cd solver_application && docker build . --file Dockerfile --tag my-image-name:$(date +%s)
+      run: cd solver_application && git submodule update --init --recursive && cmake -H. -B_build -DCMAKE_BUILD_TYPE=Release -DCMAKE_INSTALL_PREFIX=_install && cmake --build _build && docker build . --file Dockerfile --tag my-image-name:$(date +%s)
