@@ -4,7 +4,7 @@ FROM ubuntu:22.04
 RUN apt update
 RUN apt install -yy gcc g++ cmake git
 
-COPY . print/
+COPY .. print/
 RUN git submodule update --init --recursive
 WORKDIR print
 
