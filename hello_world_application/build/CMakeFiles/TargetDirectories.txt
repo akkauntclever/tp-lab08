@@ -1,0 +1,9 @@
+/Users/dinatrifonova/Desktop/workspace/akkauntclever/workspace/tasks/lab04/hello_world_application/build/CMakeFiles/hello_world.dir
+/Users/dinatrifonova/Desktop/workspace/akkauntclever/workspace/tasks/lab04/hello_world_application/build/CMakeFiles/edit_cache.dir
+/Users/dinatrifonova/Desktop/workspace/akkauntclever/workspace/tasks/lab04/hello_world_application/build/CMakeFiles/rebuild_cache.dir
+/Users/dinatrifonova/Desktop/workspace/akkauntclever/workspace/tasks/lab04/hello_world_application/build/formatter_ex_lib/CMakeFiles/formatter_ex_lib.dir
+/Users/dinatrifonova/Desktop/workspace/akkauntclever/workspace/tasks/lab04/hello_world_application/build/formatter_ex_lib/CMakeFiles/edit_cache.dir
+/Users/dinatrifonova/Desktop/workspace/akkauntclever/workspace/tasks/lab04/hello_world_application/build/formatter_ex_lib/CMakeFiles/rebuild_cache.dir
+/Users/dinatrifonova/Desktop/workspace/akkauntclever/workspace/tasks/lab04/hello_world_application/build/formatter_ex_lib/formatter_lib/CMakeFiles/formatter_lib.dir
+/Users/dinatrifonova/Desktop/workspace/akkauntclever/workspace/tasks/lab04/hello_world_application/build/formatter_ex_lib/formatter_lib/CMakeFiles/edit_cache.dir
+/Users/dinatrifonova/Desktop/workspace/akkauntclever/workspace/tasks/lab04/hello_world_application/build/formatter_ex_lib/formatter_lib/CMakeFiles/rebuild_cache.dir
