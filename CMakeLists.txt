@@ -18,5 +18,3 @@ target_link_libraries(equation formatter formatter_ex solver)
 install(TARGETS equation RUNTIME DESTINATION bin)
 install(TARGETS formatter_ex_lib LIBRARY DESTINATION lib)
 install(TARGETS solver_lib LIBRARY DESTINATION lib)
-
-include(CPackConfig.cmake)
