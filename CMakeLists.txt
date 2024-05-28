@@ -7,15 +7,14 @@ project(equation)
 
 include_directories("formatter_ex_lib/")
 include_directories("solver_lib/")
-include_directories("hello_world_application")
 
-target_include_directories(formatter_ex PUBLIC formatter_ex_lib formatter_lib hello_world_application solver_lib)
+add_executable(equation solver_application/equation.cpp)
 
-add_library(solver ${CMAKE_CURRENT_SOURCE_DIR}/solver_lib/solver.cpp)
+add_subdirectory("formatter_ex_lib/" formatter_ex_lib)
+add_subdirectory("solver_lib/" solver_lib)
 
-add_executable(equation ${CMAKE_CURRENT_SOURCE_DIR}/solver_application/equation.cpp)
-
-target_link_libraries(equation formatter formatter_ex solver)
+target_link_libraries(equation formatter_ex_lib)
+target_link_libraries(equation solver_lib)
 
 install(TARGETS equation RUNTIME DESTINATION bin)
 install(TARGETS formatter_ex_lib LIBRARY DESTINATION lib)
