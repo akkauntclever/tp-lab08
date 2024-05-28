@@ -5,7 +5,9 @@ set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
 project(equation)
 
-add_subdirectory(${CMAKE_CURRENT_SOURCE_DIR}/formatter_ex_lib formatter_ex_new_name)
+include_directories("formatter_ex_lib/")
+include_directories("solver_lib/")
+include_directories("hello_world_application")
 
 target_include_directories(formatter_ex PUBLIC formatter_ex_lib formatter_lib hello_world_application solver_lib)
 
