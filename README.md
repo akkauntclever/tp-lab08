@@ -1,4 +1,4 @@
-## Laboratory work IV
+## Laboratory work VIII
 
 Реализация ЛР8 с использованием github actions.
 
